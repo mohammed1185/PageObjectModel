@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Default suite">
+  <test verbose="2" name="Default test" parallel="none">
+    <classes>
+      <class name="pom.irctc.testcases.TCF001"/>
+      <class name="pom.irctc.testcases.TCF002"/>
+      <class name="pom.irctc.testcases.TCF003"/>
+      <class name="pom.irctc.testcases.TCF004"/>
+      <class name="pom.irctc.testcases.TCF005"/>
+      <class name="pom.irctc.testcases.TCF006"/>
+      <class name="pom.irctc.testcases.TCF007"/>
+      <class name="pom.irctc.testcases.TCF008"/>
+      <class name="pom.irctc.testcases.TCF009"/>
+      <class name="pom.irctc.testcases.TCF010"/>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->
