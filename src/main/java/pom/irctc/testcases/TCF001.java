@@ -14,7 +14,7 @@ public class TCF001 extends ProjectWrappers{
 	testCaseDescription="IRCTC Registration";
 	author="Arif";
 	category="Smoke";
-	url="http://www.irctc.co.in";
+	url="http://www.irctc.in";
 	sheetName="TC001";
 	}
 	
